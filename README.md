@@ -1,4 +1,4 @@
-## Responsive Portfolio Template
+## Responsive Portfolio Template (Bootstrap 4)
 HTML5, CSS3, Javascript ile yazılmış Bootstrap 4 ile responsive hale getirilmiş bir portfolyo web site temasıdır.
 
 <img width="1541" height="830" alt="1" src="https://github.com/user-attachments/assets/3b51aa35-4f6c-4046-89a0-23e5bdb5851f" />
